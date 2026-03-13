@@ -57,8 +57,3 @@ Launch → Register (pick any username + password)
 - C++ (Standard Library only — no installs needed)
 - Headers: `iostream` `fstream` `sstream` `iomanip` `ctime` `algorithm`
 
----
-
-## 📄 Docs
-- [`Mental_Health_Tracker_Report.pdf`](./Mental_Health_Tracker_Report.pdf) — Full case study report
-- [`Mental_Health_Tracker_PPT.pdf`](./Mental_Health_Tracker_PPT.pdf) — Presentation slides
